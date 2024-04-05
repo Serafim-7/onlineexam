@@ -10,7 +10,7 @@
 
 6) Create a database with the name 'register'
 
-7) Import register.sql file(given inside the zip package folder)
+7) Import examdb.sql file(given inside the zip package folder)
 
-8) Run the script http://localhost/exam
+
 
